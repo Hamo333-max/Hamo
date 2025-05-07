@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقعي الشخصي</title>
+</head>
+<body>
+  <h1>مرحباً بك في موقعي!</h1>
+  <button onclick="sayHello()">اضغط هنا</button>
+  <script src="script.js"></script>
+</body>
+</html>
